@@ -36,39 +36,49 @@ jobs:
       DB_PORT: 5432
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: "pip"
 
-      - name: Install system deps
+      - name: Install system dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y postgresql-client
 
-      - name: Install Python deps
+      - name: Install Python dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
           pip install psycopg2-binary
 
-      - name: Wait for Postgres
+      - name: Wait for PostgreSQL
         run: |
           until pg_isready -h 127.0.0.1 -p 5432 -U postgres; do sleep 1; done
 
-      # 🔥 IMPORTANT: move into Django folder
-      - name: Move to Django root
-        run: cd <django_root>
+      # 🔥 Automatically detect Django root (where manage.py exists)
+      - name: Locate manage.py
+        id: find_manage
+        run: |
+          MANAGE_PATH=$(find . -name manage.py | head -n 1 | xargs dirname)
+          echo "DJANGO_DIR=$MANAGE_PATH" >> $GITHUB_ENV
+          echo "Django directory: $MANAGE_PATH"
 
       - name: Django check
-        working-directory: ./<django_root>
-        run: python manage.py check
+        run: |
+          cd $DJANGO_DIR
+          python manage.py check
 
-      - name: Migrate
-        working-directory: ./<django_root>
-        run: python manage.py migrate --noinput
+      - name: Apply migrations
+        run: |
+          cd $DJANGO_DIR
+          python manage.py migrate --noinput
 
       - name: Run tests
-        working-directory: ./<django_root>
-        run: python manage.py test --verbosity=2
+        run: |
+          cd $DJANGO_DIR
+          python manage.py test --verbosity=2
