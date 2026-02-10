@@ -1,0 +1,151 @@
+job_title,job_description,location,date_posted
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-01-01
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-01-02
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",London,2023-01-03
+Data Scientist,"Proficiency in Tableau, Excel, and data visualization.",New York,2023-01-04
+Data Scientist,"Proficiency in Tableau, Excel, and data visualization.",London,2023-01-05
+Data Scientist,"Experience with Python, SQL, and machine learning models.",New York,2023-01-06
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",San Francisco,2023-01-07
+Data Scientist,"Proficiency in Tableau, Excel, and data visualization.",New York,2023-01-08
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",San Francisco,2023-01-09
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-01-10
+Data Scientist,"Proficiency in Tableau, Excel, and data visualization.",London,2023-01-11
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",San Francisco,2023-01-12
+Data Scientist,"Knowledge of AWS, Spark, and big data technologies.",Remote,2023-01-13
+Data Scientist,"Experience with Python, SQL, and machine learning models.",San Francisco,2023-01-14
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",Remote,2023-01-15
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",New York,2023-01-16
+Data Scientist,"Proficiency in Tableau, Excel, and data visualization.",New York,2023-01-17
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",New York,2023-01-18
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-01-19
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",New York,2023-01-20
+Data Scientist,"Experience with Python, SQL, and machine learning models.",Remote,2023-01-21
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",New York,2023-01-22
+Data Scientist,"Proficiency in Tableau, Excel, and data visualization.",San Francisco,2023-01-23
+Data Scientist,"Knowledge of AWS, Spark, and big data technologies.",San Francisco,2023-01-24
+Data Scientist,"Knowledge of AWS, Spark, and big data technologies.",London,2023-01-25
+Data Scientist,"Knowledge of AWS, Spark, and big data technologies.",San Francisco,2023-01-26
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",Remote,2023-01-27
+Data Scientist,"Experience with Python, SQL, and machine learning models.",New York,2023-01-28
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-01-29
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",New York,2023-01-30
+Data Scientist,"Knowledge of AWS, Spark, and big data technologies.",New York,2023-01-31
+Data Scientist,"Experience with Python, SQL, and machine learning models.",Remote,2023-02-01
+Data Scientist,"Experience with Python, SQL, and machine learning models.",San Francisco,2023-02-02
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",San Francisco,2023-02-03
+Data Scientist,"Experience with Python, SQL, and machine learning models.",New York,2023-02-04
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-02-05
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",San Francisco,2023-02-06
+Data Scientist,"Proficiency in Tableau, Excel, and data visualization.",London,2023-02-07
+Data Scientist,"Knowledge of AWS, Spark, and big data technologies.",San Francisco,2023-02-08
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",London,2023-02-09
+Data Scientist,"Knowledge of AWS, Spark, and big data technologies.",Remote,2023-02-10
+Data Scientist,"Knowledge of AWS, Spark, and big data technologies.",London,2023-02-11
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",Remote,2023-02-12
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",Remote,2023-02-13
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",London,2023-02-14
+Data Scientist,"Knowledge of AWS, Spark, and big data technologies.",Remote,2023-02-15
+Data Scientist,"Proficiency in Tableau, Excel, and data visualization.",New York,2023-02-16
+Data Scientist,"Experience with Python, SQL, and machine learning models.",Remote,2023-02-17
+Data Scientist,"Strong background in TensorFlow, NLP, and deep learning.",San Francisco,2023-02-18
+Data Scientist,"Skills in Scikit-learn, Pandas, and data cleaning.",London,2023-02-19
+Data Analyst,"Experience with Python, SQL, and machine learning models.",New York,2023-02-20
+Data Analyst,"Skills in Scikit-learn, Pandas, and data cleaning.",London,2023-02-21
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",San Francisco,2023-02-22
+Data Analyst,"Proficiency in Tableau, Excel, and data visualization.",San Francisco,2023-02-23
+Data Analyst,"Proficiency in Tableau, Excel, and data visualization.",San Francisco,2023-02-24
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",Remote,2023-02-25
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",Remote,2023-02-26
+Data Analyst,"Experience with Python, SQL, and machine learning models.",London,2023-02-27
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",London,2023-02-28
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",New York,2023-03-01
+Data Analyst,"Experience with Python, SQL, and machine learning models.",New York,2023-03-02
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",London,2023-03-03
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",Remote,2023-03-04
+Data Analyst,"Skills in Scikit-learn, Pandas, and data cleaning.",San Francisco,2023-03-05
+Data Analyst,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-03-06
+Data Analyst,"Skills in Scikit-learn, Pandas, and data cleaning.",New York,2023-03-07
+Data Analyst,"Skills in Scikit-learn, Pandas, and data cleaning.",Remote,2023-03-08
+Data Analyst,"Proficiency in Tableau, Excel, and data visualization.",London,2023-03-09
+Data Analyst,"Experience with Python, SQL, and machine learning models.",London,2023-03-10
+Data Analyst,"Strong background in TensorFlow, NLP, and deep learning.",Remote,2023-03-11
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",London,2023-03-12
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",Remote,2023-03-13
+Data Analyst,"Experience with Python, SQL, and machine learning models.",San Francisco,2023-03-14
+Data Analyst,"Skills in Scikit-learn, Pandas, and data cleaning.",Remote,2023-03-15
+Data Analyst,"Skills in Scikit-learn, Pandas, and data cleaning.",Remote,2023-03-16
+Data Analyst,"Skills in Scikit-learn, Pandas, and data cleaning.",Remote,2023-03-17
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",London,2023-03-18
+Data Analyst,"Experience with Python, SQL, and machine learning models.",London,2023-03-19
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",Remote,2023-03-20
+Data Analyst,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-03-21
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",New York,2023-03-22
+Data Analyst,"Experience with Python, SQL, and machine learning models.",New York,2023-03-23
+Data Analyst,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-03-24
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",London,2023-03-25
+Data Analyst,"Experience with Python, SQL, and machine learning models.",Remote,2023-03-26
+Data Analyst,"Experience with Python, SQL, and machine learning models.",San Francisco,2023-03-27
+Data Analyst,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-03-28
+Data Analyst,"Strong background in TensorFlow, NLP, and deep learning.",New York,2023-03-29
+Data Analyst,"Skills in Scikit-learn, Pandas, and data cleaning.",Remote,2023-03-30
+Data Analyst,"Experience with Python, SQL, and machine learning models.",London,2023-03-31
+Data Analyst,"Strong background in TensorFlow, NLP, and deep learning.",New York,2023-04-01
+Data Analyst,"Skills in Scikit-learn, Pandas, and data cleaning.",New York,2023-04-02
+Data Analyst,"Proficiency in Tableau, Excel, and data visualization.",San Francisco,2023-04-03
+Data Analyst,"Proficiency in Tableau, Excel, and data visualization.",Remote,2023-04-04
+Data Analyst,"Strong background in TensorFlow, NLP, and deep learning.",Remote,2023-04-05
+Data Analyst,"Strong background in TensorFlow, NLP, and deep learning.",San Francisco,2023-04-06
+Data Analyst,"Proficiency in Tableau, Excel, and data visualization.",San Francisco,2023-04-07
+Data Analyst,"Proficiency in Tableau, Excel, and data visualization.",Remote,2023-04-08
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",Remote,2023-04-09
+Data Analyst,"Knowledge of AWS, Spark, and big data technologies.",London,2023-04-10
+Machine Learning Engineer,"Skills in Scikit-learn, Pandas, and data cleaning.",London,2023-04-11
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",San Francisco,2023-04-12
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",London,2023-04-13
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",New York,2023-04-14
+Machine Learning Engineer,"Skills in Scikit-learn, Pandas, and data cleaning.",London,2023-04-15
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",London,2023-04-16
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",New York,2023-04-17
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",San Francisco,2023-04-18
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",New York,2023-04-19
+Machine Learning Engineer,"Skills in Scikit-learn, Pandas, and data cleaning.",London,2023-04-20
+Machine Learning Engineer,"Skills in Scikit-learn, Pandas, and data cleaning.",San Francisco,2023-04-21
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",London,2023-04-22
+Machine Learning Engineer,"Knowledge of AWS, Spark, and big data technologies.",New York,2023-04-23
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",New York,2023-04-24
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",London,2023-04-25
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",Remote,2023-04-26
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",Remote,2023-04-27
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",New York,2023-04-28
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",New York,2023-04-29
+Machine Learning Engineer,"Knowledge of AWS, Spark, and big data technologies.",Remote,2023-04-30
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",Remote,2023-05-01
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-05-02
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",London,2023-05-03
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",Remote,2023-05-04
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-05-05
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",London,2023-05-06
+Machine Learning Engineer,"Skills in Scikit-learn, Pandas, and data cleaning.",San Francisco,2023-05-07
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",London,2023-05-08
+Machine Learning Engineer,"Knowledge of AWS, Spark, and big data technologies.",New York,2023-05-09
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-05-10
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-05-11
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",Remote,2023-05-12
+Machine Learning Engineer,"Knowledge of AWS, Spark, and big data technologies.",New York,2023-05-13
+Machine Learning Engineer,"Knowledge of AWS, Spark, and big data technologies.",London,2023-05-14
+Machine Learning Engineer,"Skills in Scikit-learn, Pandas, and data cleaning.",London,2023-05-15
+Machine Learning Engineer,"Skills in Scikit-learn, Pandas, and data cleaning.",San Francisco,2023-05-16
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",London,2023-05-17
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",London,2023-05-18
+Machine Learning Engineer,"Knowledge of AWS, Spark, and big data technologies.",San Francisco,2023-05-19
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",Remote,2023-05-20
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",London,2023-05-21
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",San Francisco,2023-05-22
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",New York,2023-05-23
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",Remote,2023-05-24
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",New York,2023-05-25
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",New York,2023-05-26
+Machine Learning Engineer,"Proficiency in Tableau, Excel, and data visualization.",San Francisco,2023-05-27
+Machine Learning Engineer,"Experience with Python, SQL, and machine learning models.",London,2023-05-28
+Machine Learning Engineer,"Knowledge of AWS, Spark, and big data technologies.",San Francisco,2023-05-29
+Machine Learning Engineer,"Strong background in TensorFlow, NLP, and deep learning.",San Francisco,2023-05-30
