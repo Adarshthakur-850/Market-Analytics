@@ -1,10 +1,3 @@
-Great idea. A README should **invite people in** and **tell them how to reach you**.
-
-Below is a polished, complete `README.md` you can paste directly.
-
----
-
-```markdown
 # 📊 Market Analytics
 
 Market Analytics is a data-driven Python project focused on extracting meaningful insights from market datasets using data preprocessing, exploratory analysis, and visualization techniques.
